@@ -1,2 +1,2 @@
 # Road_Lane_Detection_Using_Python_and_OpenCV
-by Amish Singh
+By Amish Singh
