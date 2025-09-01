@@ -66,7 +66,7 @@ Overlays detected lanes on the original video
 
 # Output ====>
 
-![Lane Detection Output](screenshots/lane_output.png)
+![Road Lane Detection Output](Screenshot.png)
 
 
 
