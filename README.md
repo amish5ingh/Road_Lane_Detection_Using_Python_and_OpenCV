@@ -53,10 +53,15 @@ pip install opencv-python numpy
 
 ## 📹 What It Does
 Converts each video frame to grayscale
+
 Applies Gaussian blur and Canny edge detection
+
 Masks the region of interest (road area)
+
 Detects lane lines using Hough Transform
+
 Averages and visualizes left/right lane boundaries
+
 Overlays detected lanes on the original video
 
 
