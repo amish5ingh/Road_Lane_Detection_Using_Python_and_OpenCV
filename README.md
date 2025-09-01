@@ -66,8 +66,8 @@ Overlays detected lanes on the original video
 
 
 ### 🛠️ Technologies Used
-Python
-OpenCV
-NumPy
-VS Code (for development)
+ # Python
+# OpenCV
+# NumPy
+# VS Code (for development)
 
