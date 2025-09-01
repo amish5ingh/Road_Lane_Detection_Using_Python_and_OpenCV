@@ -9,4 +9,24 @@ Road-Lane-Detection/
 ├── input.mp4 # Sample road video for lane detection 
 ├── solution.py # Main Python script for lane detection
 ├── venv/ # Virtual environment folder
-└── README.md # Project overview and instructions```
+└── README.md # Project overview and instructions
+
+
+---
+```
+
+## 🚀 How to Run
+
+### 🔧 Step-by-Step Setup
+
+1. Clone this repository  
+2. Create a virtual environment:
+
+```bash
+python -m venv venv
+
+ Activate the virtual environment:
+
+On Windows:
+
+
