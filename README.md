@@ -28,5 +28,63 @@ python -m venv venv
  Activate the virtual environment:
 
 On Windows:
+.\venv\Scripts\activate
 
+On Mac/Linux:
+source venv/bin/activate
+
+Install required libraries:
+pip install opencv-python numpy
+
+
+Run the script:
+bash
+python solution.py
+Press q to quit the video window.
+```
+📦 Required Libraries
+Library	Purpose
+opencv-python	Image processing and video I/O
+numpy	Array operations and math
+
+Install all with:
+bash
+pip install opencv-python numpy
+
+📹 What It Does
+Converts each video frame to grayscale
+
+Applies Gaussian blur and Canny edge detection
+
+Masks the region of interest (road area)
+
+Detects lane lines using Hough Transform
+
+Averages and visualizes left/right lane boundaries
+
+Overlays detected lanes on the original video
+
+📷 Sample Output
+Include screenshots like:
+
+Canny edge detection view
+
+Masked region
+
+Hough lines visualization
+
+Final output with green lane overlays
+
+Example:
+
+markdown
+
+🛠️ Technologies Used
+Python
+
+OpenCV
+
+NumPy
+
+VS Code (for development)
 
