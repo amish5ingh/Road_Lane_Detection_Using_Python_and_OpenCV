@@ -64,10 +64,16 @@ Averages and visualizes left/right lane boundaries
 
 Overlays detected lanes on the original video
 
+# Output ====>
+
+![Lane Detection Output](screenshots/lane_output.png)
+
+
 
 ### 🛠️ Technologies Used
  #### Python
 #### OpenCV
 #### NumPy
 #### VS Code (for development)
+
 
