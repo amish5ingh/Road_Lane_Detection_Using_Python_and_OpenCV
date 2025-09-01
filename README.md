@@ -4,3 +4,9 @@ This project implements a real-time lane detection system using Python, OpenCV, 
 ---
 
 ## 📁 Project Structure
+Road-Lane-Detection/
+```│ 
+├── input.mp4 # Sample road video for lane detection 
+├── solution.py # Main Python script for lane detection
+├── venv/ # Virtual environment folder
+└── README.md # Project overview and instructions```
