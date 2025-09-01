@@ -42,49 +42,27 @@ bash
 python solution.py
 Press q to quit the video window.
 ```
-📦 Required Libraries
+##📦 Required Libraries
 Library	Purpose
 opencv-python	Image processing and video I/O
 numpy	Array operations and math
 
-Install all with:
+###Install all with:
 bash
 pip install opencv-python numpy
 
-📹 What It Does
+##📹 What It Does
 Converts each video frame to grayscale
-
 Applies Gaussian blur and Canny edge detection
-
 Masks the region of interest (road area)
-
 Detects lane lines using Hough Transform
-
 Averages and visualizes left/right lane boundaries
-
 Overlays detected lanes on the original video
 
-📷 Sample Output
-Include screenshots like:
 
-Canny edge detection view
-
-Masked region
-
-Hough lines visualization
-
-Final output with green lane overlays
-
-Example:
-
-markdown
-
-🛠️ Technologies Used
+###🛠️ Technologies Used
 Python
-
 OpenCV
-
 NumPy
-
 VS Code (for development)
 
